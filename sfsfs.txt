@@ -1,0 +1,3 @@
+- Train.py
+- predict.py
+- memoria.ipynb
